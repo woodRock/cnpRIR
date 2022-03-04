@@ -1,0 +1,5 @@
+skorch 
+numpy
+torch 
+matplotlib 
+sklearn
